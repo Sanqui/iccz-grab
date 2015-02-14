@@ -22,6 +22,8 @@ from seesaw.pipeline import Pipeline
 from seesaw.project import Project
 from seesaw.util import find_executable
 
+#Begin Fisher-Price's My First Pipeline - ic.cz grab pipeline chip
+#Borrowed initialy by arkiver's cobook-grab pipeline for ArchiveTeam
 
 # check the seesaw version
 if StrictVersion(seesaw.__version__) < StrictVersion("0.8.5"):
@@ -57,7 +59,7 @@ if not WGET_LUA:
 #
 # Update this each time you make a non-cosmetic change.
 # It will be added to the WARC files and reported to the tracker.
-VERSION = "20150209.01"
+VERSION = "20150214.01"
 USER_AGENT = 'ArchiveTeam'
 TRACKER_ID = 'icdev'
 TRACKER_HOST = '192.168.51.130:9080'
