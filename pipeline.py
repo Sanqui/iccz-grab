@@ -220,9 +220,10 @@ class WgetArgs(object):
 project = Project(
     title="ic-grab",
     project_html="""
-        <img class="project-logo" alt="Project logo" src="http://archiveteam.org/images/5/54/Cobook-logo.png" height="50px" title=""/>
-        <h2>cobook.co <span class="links"><a href="https://cobook.co/">Website</a> &middot; <a href="http://tracker.archiveteam.org/cobook/">Leaderboard</a></span></h2>
-        <p>Saving Cobook!</p>
+        <img class="project-logo" alt="Project logo" src="http://t.nerds.io/1552e556eaa71215dd037d40d51e5b04.png
+" height="50px" title=""/>
+        <h2>ic.cz hosted websites <span class="links"><a href="https://client.ic.cz/index.php">Website</a> &middot; <a href="http://tracker.archiveteam.org/cobook/">Leaderboard</a></span></h2>
+        <p>Saving Internet Centrum hosted websites!</p>
     """
 )
 
