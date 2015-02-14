@@ -146,7 +146,7 @@ def get_hash(filename):
 
 CWD = os.getcwd()
 PIPELINE_SHA1 = get_hash(os.path.join(CWD, 'pipeline.py'))
-LUA_SHA1 = get_hash(os.path.join(CWD, 'cobook.lua'))
+#LUA_SHA1 = get_hash(os.path.join(CWD, 'cobook.lua'))
 
 
 def stats_id_function(item):
