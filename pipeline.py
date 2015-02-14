@@ -178,7 +178,7 @@ class WgetArgs(object):
             "--timeout", "30",
             "--tries", "inf",
                      #"--domains", "cobook.co",
-            "--header=\'Cookie:iccmtspmvrfy=ano\'",
+            "--header","Cookie: iccmtspmvrfy=ano",
                      #"--span-hosts",
             "--waitretry", "30",
             "--warc-file", ItemInterpolation("%(item_dir)s/%(warc_file_base)s"),
