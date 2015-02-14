@@ -179,7 +179,7 @@ class WgetArgs(object):
             "--tries", "inf",
                      #"--domains", "cobook.co",
             "--header","Cookie: iccmtspmvrfy=ano",
-                     #"--span-hosts",
+            "--span-hosts",
             "--waitretry", "30",
             "--warc-file", ItemInterpolation("%(item_dir)s/%(warc_file_base)s"),
             "--warc-header", "operator: Archive Team",
