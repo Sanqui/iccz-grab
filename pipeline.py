@@ -59,10 +59,10 @@ if not WGET_LUA:
 #
 # Update this each time you make a non-cosmetic change.
 # It will be added to the WARC files and reported to the tracker.
-VERSION = "20150214.01"
+VERSION = "20150215.01"
 USER_AGENT = 'ArchiveTeam'
-TRACKER_ID = 'icdev'
-TRACKER_HOST = '192.168.51.130:9080'
+TRACKER_ID = 'iccz'
+TRACKER_HOST = 'tracker.nerds.io:9080'
 
 
 ###########################################################################
