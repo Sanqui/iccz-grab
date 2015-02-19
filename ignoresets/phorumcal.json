@@ -1,0 +1,7 @@
+{
+    "name": "phorumcal",
+    "patterns": [
+                 "calendar.php\?do=add"
+                 ],
+    "type": "ignore_patterns"
+}

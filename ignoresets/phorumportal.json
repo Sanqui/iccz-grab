@@ -1,0 +1,7 @@
+{
+    "name": "phorumportal",
+    "patterns": [
+                 "portal.php\?month=[\d]+"
+                 ],
+    "type": "ignore_patterns"
+}
