@@ -1,7 +1,16 @@
 {
     "name": "phorumcal",
     "patterns": [
-                 "calendar.php\?do=add"
+                 "calendar.php\?do=add",
+                 "calendar.php",
+                 "showcal\.php",
+                 "calendar_menu/event\.php",
+                 "calendar_menu/calendar\.php",
+                 "index.php\?site=calendar",
+                 "Souprava=.+Souprava=.+",
+                 "kalendar\.php",
+                 "index\.php\?.+year=203.",
+                 "index\.php\?.+year=198."
                  ],
     "type": "ignore_patterns"
 }
