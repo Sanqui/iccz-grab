@@ -1,0 +1,8 @@
+{
+    "name": "phorumcz",
+    "patterns": [
+                 "portal.php\?month=[\d]+",
+                 "&highlight=&"
+                 ],
+    "type": "ignore_patterns"
+}
