@@ -1,0 +1,6 @@
+This is from the webpark.cz (absorbed by ic.cz) catalog as found by Sanqui.
+
+At initial scrape it contains 1389 webpark.cz domains, it will likely contain some duplicates from the original ic.cz catalog wayback machine scrape.
+
+
+https://web.archive.org/web/20071009135236/http://katalog.webpark.cz/
