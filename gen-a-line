@@ -1,0 +1,6 @@
+#!/bin/sh
+
+# This assumes that the file you want to queue has been moved to inprogress
+# and that the move has been committed and pushed to ArchiveTeam/iccz-grab.
+
+echo "!a < https://raw.githubusercontent.com/ArchiveTeam/iccz-grab/master/inprogress/$1 --no-offsite-links --pipeline=internetcentrum --ignore-sets=coppermine,blogs,forums,nosortedindex,internetcentrum,mediawiki"
