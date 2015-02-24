@@ -1,0 +1,7 @@
+These lists were gathered by a trivial "exploit" listing accessible directories
+using PHP scripts.
+
+For ic.cz, only the exploited domain's first letter's listing was available.
+The other domains are complete.
+
+The lists have not been deduplicated at all yet.
